@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Mimosa Hostilis Mexico (Pulp)",
+        "id": "M.hostilis pulp",
+        "description": "M.hostilis (Mexico) root bark ground up lightly into pulp",
+        "image": "/images/mimosaMEXpulp.png",
+        "price": "2.00"
+        
+
+    },                                                          
+
+    {
+        "title": "Mimosa Hostilis Mexico (Powder)",
+        "id": "M.hostilis powder",
+        "description": "M.hostilis (Mexico) root bark ground up into a fine powder",
+        "image": "/images/mimosaMEXpowder.jpg",
+        "price": "4.00"
+    }
+]
